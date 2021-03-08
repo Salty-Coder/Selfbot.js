@@ -1,0 +1,35 @@
+{
+  "name": "selfbot-js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@trenskow/wait": "^1.1.0",
+    "asyncio": "0.0.2",
+    "cat-facts": "^1.0.2",
+    "chance": "^1.1.6",
+    "cheerio": "^1.0.0-rc.3",
+    "cli-color": "^2.0.0",
+    "discord.js": "^11.5.1",
+    "dog-facts": "^1.0.3",
+    "fs": "0.0.1-security",
+    "google-translate-api": "^2.3.0",
+    "hastebin-gen": "^2.0.5",
+    "moment": "^2.27.0",
+    "moment-duration-format": "^2.3.2",
+    "ms": "^2.1.2",
+    "node-bash-title": "0.0.2",
+    "relevant-urban": "^2.0.0",
+    "request": "^2.88.2",
+    "requests": "^0.3.0",
+    "superagent": "^6.0.0",
+    "urban": "^0.3.2",
+    "wait": "^0.1.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
