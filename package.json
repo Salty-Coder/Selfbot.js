@@ -28,7 +28,7 @@
     "requests": "^0.3.0",
     "superagent": "^6.0.0",
     "urban": "^0.3.2",
-    "wait": "^0.1.0"
+    "wait": "^0.4.2"
   },
   "devDependencies": {},
   "description": ""
