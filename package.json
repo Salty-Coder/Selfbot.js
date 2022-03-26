@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "npm run snyk-protect",
+    "snyk-protect": "snyk-protect"
   },
   "author": "",
   "license": "ISC",
@@ -28,8 +30,10 @@
     "requests": "^0.3.0",
     "superagent": "^6.1.0",
     "urban": "^0.3.4",
-    "wait": "^0.4.2"
+    "wait": "^0.4.2",
+    "@snyk/protect": "latest"
   },
   "devDependencies": {},
-  "description": ""
+  "description": "",
+  "snyk": true
 }
