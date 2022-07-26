@@ -15,7 +15,7 @@
     "cat-facts": "^1.0.2",
     "chance": "^1.1.8",
     "cheerio": "^1.0.0-rc.3",
-    "cli-color": "^2.0.2",
+    "cli-color": "^2.0.3",
     "discord.js": "^11.6.4",
     "dog-facts": "^1.0.3",
     "fs": "0.0.2",
