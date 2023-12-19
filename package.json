@@ -28,7 +28,7 @@
     "relevant-urban": "^2.0.0",
     "request": "^2.88.2",
     "requests": "^0.3.0",
-    "superagent": "^6.1.0",
+    "superagent": "^7.0.2",
     "urban": "^0.3.4",
     "wait": "^0.4.2",
     "@snyk/protect": "1.1053.0"
